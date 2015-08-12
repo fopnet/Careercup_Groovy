@@ -8,6 +8,17 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+#SVN Files
+*.svn
+
+Eclipse Files
+**/bin
+**/target
+
+Intellij Files
+**/out
+**/wrapper
+
 # Windows Installer files
 *.cab
 *.msi
